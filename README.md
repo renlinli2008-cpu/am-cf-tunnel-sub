@@ -2,7 +2,7 @@
 基于Vercel、Cloudflare部署该脚本，你可以方便地将Cloudflare Workers 和 Pages的 VLESS、Trojan 配置信息使用在线配置转换到 Clash、 Singbox 、Quantumult X等工具中订阅使用。Cloudflare Workers 和 Pages 生成VLESS、Trojan节点,实现一键订阅节点。分离节点与订阅框架,更好解决Cloudfare部署时出现1101、522的问题。 [最新视频教程](https://youtu.be/f8ZTvv4u3Pw)、[🎬 YouTube](https://youtube.com/@am_clubs?sub_confirmation=1)、 [💬 Telegram](https://t.me/am_clubs)、[📂 GitHub](https://github.com/amclubs)、[🌐 Blog](https://amclubss.com)
 
 ### ⚙️结合Coudflare部署免费节点项目 [am-cf-tunnel](https://github.com/amclubs/am-cf-tunnel) 与教程使用 [部署视频教程](https://youtu.be/i-XnnP-MptY)
-- 本频道订阅器转换地址：https://sub.amclubss.com
+- 本频道订阅器转换地址：https://sub.okusip.de5.net/aAa19850726@/setting
 
 ### 👉 后期计划
 - 增加在线自动优先IP功能
@@ -124,11 +124,11 @@
 <details><summary><strong> ☕ [点击展开] 赞赏支持 ~🧧</strong></summary>
 *我非常感谢您的赞赏和支持，它们将极大地激励我继续创新，持续产生有价值的工作。*
 
-- **USDT-TRC20:** `TWTxUyay6QJN3K4fs4kvJTT8Zfa2mWTwDD`
-- **TRX-TRC20:** `TWTxUyay6QJN3K4fs4kvJTT8Zfa2mWTwDD`
+- **USDT-TRC20:** ``
+- **TRX-TRC20:** ``
 
 <div align="center"> 
-  <img src="https://github.com/user-attachments/assets/e6cdc42a-6374-4722-b833-601738f72196" width="200"></br> 
+  <img src="扫码地址" width="200"></br> 
   TRC10/TRC20扫码支付 
 </div> 
 </details>
