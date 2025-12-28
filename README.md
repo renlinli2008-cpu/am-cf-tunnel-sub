@@ -90,7 +90,7 @@
 | CF_EMAIL         | xxx@gmail.com(Vercel方式部署才需求)  |❌ | 优先IP时需要CF的帐号邮箱        ||
 | CF_API_KEY       | 49ba2xxxx(Vercel方式部署才需求)      |❌ | 优先IP时需要CF的API令牌（管理帐户->帐户API令牌->创建的令牌D）          ||
 
-- 本频道订阅器转换地址：https://sub.amclubss.com
+- 本频道订阅器转换地址：https://sub.okusip.de5.net/aAa19850726@/setting
   
 ## 
 ### 🛠已适配订阅工具 [点击进入视频教程](https://youtu.be/xGOL57cmvaw) [点进进入karing视频教程](https://youtu.be/M3vLLBWfuFg)
